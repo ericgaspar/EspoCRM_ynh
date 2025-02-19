@@ -1,1 +1,1 @@
-Ceci est une fausse description des fonctionalités de l'app
+EspoCRM est une plateforme de gestion de la relation client (CRM) libre et gratuite, conçue pour aider les entreprises à établir et à entretenir de solides relations avec leurs clients. Elle fournit une large gamme d'outils pour stocker, organiser et gérer les prospects, les contacts, les opportunités de vente, les campagnes de marketing, les cas de support, et plus encore - toutes les informations commerciales dans une interface simple et intuitive.
