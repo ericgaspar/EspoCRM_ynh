@@ -4,8 +4,8 @@ packaging_format = 2
 
 id = "Espocrm"
 name = "EspoCRM"
-description.en = "web application that allows to evaluate all your company relationships"
-description.fr = "Expliquez en *quelques* (10~15) mots l'utilité de l'app ou ce qu'elle fait (l'objectif est de donner une idée grossière pour des utilisateurs qui naviguent dans un catalogue de 100+ apps)"
+description.en = "Web application that allows to evaluate all your company relationships"
+description.fr = "Application web qui permet d'évaluer toutes les relations de votre entreprise"
 
 version = "9.0.4~ynh1"
 
