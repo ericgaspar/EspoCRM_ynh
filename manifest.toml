@@ -12,8 +12,8 @@ version = "9.0.4~ynh1"
 maintainers = ["eric_G"]
 
 [upstream]
-license = "free"
-website = "www.espocrm.com"
+license = "AGPL-3.0-only"
+website = "https://www.espocrm.com"
 demo = "https://www.espocrm.com/demo/"
 admindoc = "https://yunohost.org/packaging_apps"
 userdoc = "https://yunohost.org/apps"
