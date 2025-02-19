@@ -67,7 +67,7 @@ ram.runtime = "50M"
     [resources.ports]
 
     [resources.apt]
-    packages = "postgresql, php8.3-pgsql, php8.3-fpm"
+    packages = "mariadb-server, php8.3-gd, php8.3-bcmath, php8.3-zip, php8.3-mbstring, php8.3-curl, php8.3-mysql"
 
     [resources.database]
-    type = "postgresql"
+    type = "mysql"
